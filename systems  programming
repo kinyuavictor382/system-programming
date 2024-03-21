@@ -1,29 +1,5 @@
-Skip to content
-kenlewis
-/
-System-programming-repository
 
-Type / to search
 
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Commit
-Update README.md
-This is assignment quiz codes
- main
-@kenlewis
-kenlewis committed yesterday 
-1 parent e795e13
-commit 4fcbf52
-Showing 1 changed file with 114 additions and 2 deletions.
- 116 changes: 114 additions & 2 deletions116  
-README.md
-@@ -1,2 +1,114 @@
 # System-programming-repository
 This are codes for quiz assignment on system programming using shell
 1)//this is a shell script that will enable the user to enter employee name,hours worked and rate per hour.Then calculate the basic pay
@@ -144,17 +120,4 @@ echo "Total Billed:$bill"
 @kinyuavictor382
 Comment
  
-Leave a comment
- 
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
-Update README.md · kenlewis/System-programming-repository@4fcbf52
+
